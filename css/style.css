@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.footer-section{
+    background-color: #AAAAAA;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+    padding: 20px 0px 10px;
+}
+.footer-icons{
+    display: flex;
+   justify-content: center;
+}
+.footer-icon{
+    color: white;
+    padding: 0 5px;
+}
